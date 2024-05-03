@@ -1,0 +1,106 @@
+body {
+  background-color: hsl(30, 54%, 90%);
+  width: 800px;
+  height: 600px;
+}
+.container {
+  background-color: white;
+  align-items: center;
+  width: 736px;
+  height: 1400px;
+  margin: 400px;
+  padding-bottom: 10px;
+  margin-top: 100px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+}
+.container1 {
+  background-color: hsl(30, 54%, 90%);
+  justify-content: center;
+  width: 654px;
+  height: 136px;
+  margin: 15px;
+  padding: 10px;
+  border-radius: 15px;
+}
+h3 {
+  color: hsl(332, 51%, 32%);
+}
+h5 {
+  font-family: "sans-serif";
+  margin: 20px;
+}
+h1 {
+  margin: 20px;
+  padding-top: 20px;
+}
+.image {
+  padding-top: 10px;
+  width: 654px;
+  height: 275px;
+  margin: 15px;
+  border-radius: 20px;
+}
+.container2 {
+  margin: 15px;
+  border-bottom: 2px solid hsl(30, 18%, 87%);
+}
+.container3 {
+  padding: 17px;
+  border-bottom: 2px solid hsl(30, 18%, 87%);
+  margin: 15px;
+}
+.container5 {
+  margin: 20px;
+  margin-bottom: 40px;
+}
+table {
+  border-bottom: 2px solid hsl(30, 18%, 87%);
+  width: 100px;
+  margin: 20px;
+}
+.teba {
+  border-bottom: 2px solid hsl(30, 18%, 87%);
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  height: 2px;
+  margin: 20px;
+}
+.tebe {
+  border-bottom: 2px solid hsl(30, 18%, 87%);
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  height: 6px;
+  margin: 20px;
+}
+.tebi {
+  border-bottom: 2px solid hsl(30, 18%, 87%);
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  height: 12px;
+  margin: 20px;
+}
+.tebo {
+  border-bottom: 2px solid hsl(30, 18%, 87%);
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  margin: 20px;
+  height: 12px;
+}
+.tebu {
+  border-bottom: 2px solid hsl(30, 18%, 87%);
+  justify-content: space-between;
+  display: flex;
+  flex-direction: row;
+  width: 200px;
+  margin: 20px;
+  height: 12px;
+}
